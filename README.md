@@ -14,7 +14,7 @@ Este proyecto analiza el comportamiento transaccional del consumidor, simulacion
 
 ### 📑 Presentación del Proyecto
 * 🎥 **[Diapositivas Resumen](https://docs.google.com/presentation/d/19_nWRm0_zapuBiCeAzJsQNZde0cLUvTenAIGy-R3OH0/present?slide=id.g3a87eabab9d_2_75)**: Presentación ejecutiva del modelo de negocio.
-* 📊 **[Dashboard Interactivo](https://docs.google.com/spreadsheets/d/1iPTQq2u4AXH7E_DAIlQHkyMdYQfEBwzKbyc2mFyJry8/template/preview)**: Reporte analítico automatizado (Dirigirse a la hoja *"Pivot Table 12"* y presionar *"Utilizar Plantilla"*).
+* 📊 **[Dashboard Interactivo](https://docs.google.com/spreadsheets/d/1GHb4md2lzgrpl4_0_IHoRx8YSRSE-3C17VNMTxsYT5k/edit?gid=1137595256#gid=1137595256&fvid=961458355)**: Reporte analítico automatizado (Dirigirse a la hoja *"Pivot Table 12"* y presionar *"Utilizar Plantilla"*).
 
 ### 🛠️ Metodología Aplicada
 * 🧠 **[KDD](https://docs.google.com/presentation/d/1xLVPenyxkJSBubEAozLAKsx7nURbJ_hQ_j2tMJI-JtM/present?slide=id.p4)**: Fases de selección, preprocesamiento y transformación del histórico de transacciones.
