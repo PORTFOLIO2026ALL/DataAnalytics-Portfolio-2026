@@ -39,7 +39,7 @@ Análisis enfocado en la evolución tecnológica y demográfica del parque autom
 
 ### 🛠️ Metodología Aplicada
 * 🧠 **[KDD](https://docs.google.com/presentation/d/1xLVPenyxkJSBubEAozLAKsx7nURbJ_hQ_j2tMJI-JtM/present?slide=id.p4)**: Estrategia de ingeniería de datos e imputación basada en medianas estadísticas para registros faltantes.
-* 💾 **[Dataset Tratado](https://docs.google.com/spreadsheets/d/18u0zykBSb8RRMppfsDSbcQz4FDh02DAeApvkSgnT_0w/preview?gid=595707311&single=true)**: Base de datos depurada con filtros y diccionarios de mapeo expandidos.
+* 💾 **[Dataset Tratado](https://docs.google.com/spreadsheets/d/1cVYNUtC4UAro4kVg-5yRTBH_CsiUVn8E8y13QoNZgh8/edit?gid=595707311#gid=595707311)**: Base de datos depurada con filtros y diccionarios de mapeo expandidos.
 * 📈 **Métricas de Control (KPIs)**: Censo total de vehículos, Tasa global BEV (Battery Electric Vehicle) y Autonomía máxima promedio por fabricante.
 * 🖥️ **[Visualización Dinámica](https://docs.google.com/spreadsheets/d/1xyBNrkLq3oWuBRUqqLhB4dPD_cmGW-WCF3l55pb4A5M/preview?gid=1811363385&single=true#gid=1811363385)**: Interfaz de usuario final interactiva sin elementos secundarios de edición.
 
