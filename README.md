@@ -13,7 +13,7 @@ Bienvenido a mi espacio de proyectos de análisis de Datos. Este repositorio rec
 Este proyecto analiza el comportamiento transaccional del consumidor, simulaciones de empaquetamiento de productos (*bundling*) y fugas de valor para optimizar la rentabilidad de una cadena de café. El objetivo es mostrar el proceso completo aplicando la metodología KDD.
 
 ### 📑 Presentación del Proyecto
-* 🎥 **[Diapositivas Resumen](https://docs.google.com/presentation/d/19_nWRm0_zapuBiCeAzJsQNZde0cLUvTenAIGy-R30H0/present?slide=id.g3a87eabab9d_2_75)**: Presentación ejecutiva del modelo de negocio.
+* 🎥 **[Diapositivas Resumen](https://docs.google.com/presentation/d/19_nWRm0_zapuBiCeAzJsQNZde0cLUvTenAIGy-R3OH0/present?slide=id.g3a87eabab9d_2_75)**: Presentación ejecutiva del modelo de negocio.
 * 📊 **[Dashboard Interactivo](https://docs.google.com/spreadsheets/d/1iPTQq2u4AXH7E_DAIlQHkyMdYQfEBwzKbyc2mFyJry8/template/preview)**: Reporte analítico automatizado (Dirigirse a la hoja *"Pivot Table 12"* y presionar *"Utilizar Plantilla"*).
 
 ### 🛠️ Metodología Aplicada
