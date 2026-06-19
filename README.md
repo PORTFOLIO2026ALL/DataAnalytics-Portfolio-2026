@@ -35,7 +35,7 @@ Análisis enfocado en la evolución tecnológica y demográfica del parque autom
 
 ### 📑 Presentación del Proyecto
 * 🎥 **[Diapositivas Resumen](https://docs.google.com/presentation/d/1xLVPenyxkJSBubEAozLAKsx7nURbJ_hQ_j2tMJI-JtM/present?slide=id.p1)**: Enfoque estratégico del mercado y ciclos de maduración.
-* 📊 **[Dashboard Interactivo](https://docs.google.com/spreadsheets/d/1PAVUX778pql4U0olO9OQebSdKzEoj8zihhLz7JrgWuA/template/preview?single=true)**: Panel ejecutivo centralizado para la toma de decisiones.
+* 📊 **[Dashboard Interactivo](https://docs.google.com/spreadsheets/d/1J1W3T0qi6Vj5dF8m0PgaviXEoukTEoRt90hfmq5HcMs/edit?gid=1811363385#gid=1811363385)**: Panel ejecutivo centralizado para la toma de decisiones.
 
 ### 🛠️ Metodología Aplicada
 * 🧠 **[KDD](https://docs.google.com/presentation/d/1xLVPenyxkJSBubEAozLAKsx7nURbJ_hQ_j2tMJI-JtM/present?slide=id.p4)**: Estrategia de ingeniería de datos e imputación basada en medianas estadísticas para registros faltantes.
