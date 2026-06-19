@@ -17,7 +17,7 @@ Este proyecto analiza el comportamiento transaccional del consumidor, simulacion
 * 📊 **[Dashboard Interactivo](https://docs.google.com/spreadsheets/d/1GHb4md2lzgrpl4_0_IHoRx8YSRSE-3C17VNMTxsYT5k/edit?gid=1137595256#gid=1137595256&fvid=961458355)**: Reporte analítico automatizado (Dirigirse a la hoja *"Pivot Table 12"* y presionar *"Utilizar Plantilla"*).
 
 ### 🛠️ Metodología Aplicada
-* 🧠 **[KDD](https://docs.google.com/presentation/d/1xLVPenyxkJSBubEAozLAKsx7nURbJ_hQ_j2tMJI-JtM/present?slide=id.p4)**: Fases de selección, preprocesamiento y transformación del histórico de transacciones.
+* 🧠 **[KDD](https://docs.google.com/presentation/d/19_nWRm0_zapuBiCeAzJsQNZde0cLUvTenAIGy-R3OH0/present?slide=id.g3a87eabab9d_4_16)**: Fases de selección, preprocesamiento y transformación del histórico de transacciones.
 * 💾 **[Dataset Raíz](https://docs.google.com/spreadsheets/d/1iPTQq2u4AXH7E_DAIlQHkyMdYQfEBwzKbyc2mFyJry8/preview?gid=528103202&single=true#gid=528103202)**: Conjunto de datos íntegro utilizado como base analítica.
 * 📈 **Métricas de Control (KPIs)**: Ticket promedio, Ingresos brutos, % Penetración de Bebidas, % Consumo simple, Beneficio cesante total y Beneficio cesante por cliente.
 * 🖥️ **[Visualización Dinámica](https://docs.google.com/spreadsheets/d/1GHb4md2lzgrpl4_0_IHoRx8YSRSE-3C17VNMTxsYT5k/edit?gid=1137595256#gid=1137595256&fvid=961458355)**: Cuadros de mando dinámicos con segmentadores de datos en Google Sheets.
