@@ -63,8 +63,7 @@ A través del uso del cuadro de mando interactivo, la dirección puede proyectar
 
 ### 📸 Interfaz del Cuadro de Mando e Impacto Financiero
 
-* 💹📊 **[Impacto financiero Bundling]
-(https://docs.google.com/spreadsheets/d/1vMq1q4CoxJVqDkVejIEylh8QQ6xfzBIWlZP6dE9btuI/edit?gid=1137595256#gid=1137595256&fvid=961458355)**: 
+*💹📊**[Impacto financiero Bundling](https://docs.google.com/spreadsheets/d/1vMq1q4CoxJVqDkVejIEylh8QQ6xfzBIWlZP6dE9btuI/edit?gid=1137595256#gid=1137595256&fvid=961458355)**: 
 En la hoja Pivot Table 12 en el bloque Oportunidad.
 
 ### 📑 Presentación del Proyecto
