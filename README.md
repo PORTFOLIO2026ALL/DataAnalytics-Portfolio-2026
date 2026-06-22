@@ -87,6 +87,56 @@ A través del uso del cuadro de mando interactivo, la dirección puede proyectar
 
 Análisis enfocado en la evolución tecnológica y demográfica del parque automotor de vehículos eléctricos. Aborda el tratamiento de grandes volúmenes de registros mediante técnicas de imputación y mapeo extensivo de autonomía.
 
+## 🚨 El Problema
+
+La adquisición y gestión de flotas de vehículos eléctricos (EV) se ejecuta actualmente bajo un alto nivel de incertidumbre financiera y operativa. Sin un análisis de datos riguroso, las organizaciones se enfrentan a tres dolores críticos del mundo real:
+
+1. **Riesgo de Obsolescencia Tecnológica (Despliegue Ciego de CAPEX):** Alta exposición a comprar flotas de bajo rendimiento debido a la falta de estandarización en la autonomía de las baterías.
+2. **Inactividad de Infraestructura:** Pérdidas millonarias por instalar estaciones de carga rápida en zonas subutilizadas o con baja densidad de demanda operativa.
+3. **Ansiedad de Rango e Interrupción Logística:** Imposibilidad de planificar rutas de distribución seguras por desconocimiento de los promedios reales de autonomía del mercado, provocando interrupciones operativas y vehículos varados.
+
+---
+
+## 💡 La Solución
+
+Se diseñó y construyó una **Infraestructura de Inteligencia de Negocios (BI)** de extremo a extremo que mitiga los riesgos de capital mediante el análisis predictivo y la segmentación avanzada de mercado. La solución abarca:
+
+* **Ingeniería e Imputación de Datos:** Limpieza y tratamiento metodológico de valores nulos y registros en cero (`0` en rango eléctrico original), resolviendo sesgos mediante diccionarios técnicos por marca y estableciendo una base estadística confiable.
+* **Matriz de Sensibilidad de Autonomía:** Modelado avanzado enfocado en medir el peso real de las variables críticas de la industria (Marca, Tipo de Uso y Antigüedad Tecnológica).
+* **Segmentación Estratégica de Mercado:** Clasificación de la flota en niveles de eficiencia energética (*Standard, High Efficiency, Long Range*) mapeados frente a sectores clave de uso (*Public vs. Private*).
+
+---
+
+## 📈 El Impacto / Resultado
+
+A través del uso del Dashboard, la dirección estratégica puede tomar decisiones basadas en certezas matemáticas directas sobre el negocio:
+
+* **⚡ Blindaje del CAPEX ante una Brecha del 314%:** El análisis descubrió una dispersión extrema de **314 millas de rendimiento** entre el fabricante líder (440 millas de autonomía) y el más rezagado (126 millas). El dashboard actúa como un filtro técnico obligatorio para evitar inversiones en activos de rápida obsolescencia.
+* **📍 Optimización de Infraestructura para 206,693 Unidades:** Los datos revelan que el Sector Público absorbe la gran mayoría de la flota. Concentrar la red de carga en estos nodos de movilidad garantiza una tasa de utilización inmediata, eliminando el riesgo de activos ociosos.
+* **🚚 Planificación Logística Segura a ~240 Millas:** El dashboard establece un estándar matemático de **~240 millas de autonomía promedio** esperada como límite operativo seguro para el diseño de rutas de distribución, turnos y ventanas de recarga.
+* **📈 Enfoque Comercial B2G de Alta Eficiencia:** Al demostrar que **3 de cada 4 vehículos eléctricos (73.9% del volumen total del mercado)** son adquiridos por el Estado, el equipo comercial puede redirigir el 100% de sus esfuerzos hacia licitaciones gubernamentales, acortando el ciclo de venta y garantizando contratos de gran volumen con riesgo de impago nulo.
+
+---
+
+## 🛠️ Tecnologías (Stack)
+
+* **Procesamiento de Datos Masivos:** Limpieza, normalización y transformación matricial de más de 270,000 filas de registros crudos (*Data Cleansing & Imputation*).
+* **Inteligencia de Negocios (BI) & Visualización:** Modelado dinámico, lógica de indicadores financieros, tablas dinámicas cruzadas y dashboards interactivos en Google Sheets / Excel.
+* **Analítica Avanzada:** Análisis de sensibilidad estadística, cálculo de tasas de penetración tecnológica y proyecciones de autonomía del mercado.
+
+---
+
+## ⚠️ Transparencia Técnica y Limitaciones
+
+Para garantizar la solidez e interpretación honesta de los escenarios simulados, se evaluaron las siguientes limitaciones metodológicas:
+
+* **Efecto de Imputación:** La base original contenía registros en cero que fueron corregidos mediante una asignación técnica de control (fijada en un estándar de 150 millas o diccionario por marca), lo que introduce un margen de error estadístico controlado en los promedios globales.
+* **Variables Técnicas Ausentes:** Los indicadores reflejan la autonomía nominal del fabricante. No se incluyen factores comerciales como degradación real de la batería, historial de mantenimiento o hábitos de conducción.
+* **Enfoque de Datos Macroeconómicos:** El estudio carece de costos específicos de adquisición o tarifas eléctricas regionales, centrando su impacto financiero en el blindaje del CAPEX y eficiencia operativa.
+* **Sesgo Sectorial:** Al estar compuesto en un **73.9%** por datos de flotas públicas, las conclusiones de adopción masiva están impulsadas por políticas estatales y pueden variar significativamente en el mercado masivo minorista (B2C).
+
+---
+
 ### 📑 Presentación del Proyecto
 * 🎥 **[Diapositivas Resumen](https://docs.google.com/presentation/d/1xLVPenyxkJSBubEAozLAKsx7nURbJ_hQ_j2tMJI-JtM/present?slide=id.p1)**: Enfoque estratégico del mercado y ciclos de maduración.
 * 📊 **[Dashboard Interactivo](https://docs.google.com/spreadsheets/d/1J1W3T0qi6Vj5dF8m0PgaviXEoukTEoRt90hfmq5HcMs/edit?gid=1811363385#gid=1811363385)**: Panel ejecutivo centralizado para la toma de decisiones.
